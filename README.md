@@ -14,7 +14,7 @@ Welcome to my Github! Here I post some codes of somethings that I've learned.
  - 📚 I’m currently learning everything about Frontend and Backend technologies;
  - 👨‍💻 I'm currently looking for opportunities;
  - 📚 A future Systems Analysis and Development Student;
- - ⭐ Fun Fact: One of my favorite bands is Red Hot Chili Peppers
+ - ⭐ Fun Fact: One of my favorite bands is Red Hot Chili Peppers;
 
  Languages and Tools 🛠
  
