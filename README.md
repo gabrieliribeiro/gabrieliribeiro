@@ -1,14 +1,23 @@
-### Olá 👋
+### Hello Folks!! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<a href="https://twitter.com/_ribeiro_gabis">
+  <img align="left" alt="Gabi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/gabrieliribeiro/">
+  <img align="left" alt="Gabi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-**gabrieliribeiro/gabrieliribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Gabi, a brazilian who is learning front-end development!
+Welcome to my Github! Here I post some codes of somethings that I've learned.
 
-Here are some ideas to get you started:
+ - 📚 I’m currently learning everything about Frontend and Backend technologies;
+ - 👨‍💻 I'm currently looking for opportunities;
+ - 📚 A future Systems Analysis and Development Student;
+ - ⭐ Fun Fact: One of my favorite bands is Red Hot Chili Peppers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ Languages and Tools 🛠
+ 
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666](https://user-images.githubusercontent.com/97065013/155859985-2db1a990-955b-4d5b-a9f4-c333056614f2.svg)
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333](https://user-images.githubusercontent.com/97065013/155859999-c11889f4-93fb-4652-85f7-df7311bbe3e6.svg)
+![687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d666666666666](https://user-images.githubusercontent.com/97065013/155860006-c72ad124-382e-4aea-a204-5ee684e01dcf.svg)
