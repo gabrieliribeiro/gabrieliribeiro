@@ -3,7 +3,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anadehavaiana)](https:https://twitter.com/_ribeiro_gabis)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/anadehavaiana)](https://www.instagram.com/ribeiro_gabis_/)
 <br />
-<div style="width:100%;height:0;padding-bottom:41%;position:relative;"><iframe src="https://giphy.com/embed/sk6yL9EGVeAcE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/matrix-cinematography-sk6yL9EGVeAcE">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
 ### I'm Gabi, a brazilian who is learning front-end development!
