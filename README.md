@@ -7,7 +7,7 @@
 Welcome to my Github! Here I post some codes of somethings that I've learned.
 <br />
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
  - 📚 I’m currently learning everything about Frontend and Backend technologies;
  - 👨‍💻 I'm currently looking for opportunities;
