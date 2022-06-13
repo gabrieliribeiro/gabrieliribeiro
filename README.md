@@ -7,15 +7,12 @@
 Welcome to my Github! Here I post some codes of somethings that I've learned.
 <br />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
-
  - 📚 I’m currently learning everything about Front-end and Back-end technologies;
  - 👨‍💻 I'm currently looking for opportunities;
  - 📚 A Systems Analysis and Development Student;
  - ⭐ Fun Fact: One of my favorite bands is Red Hot Chili Peppers;
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieliribeiro)](https://github.com/anuraghazra/github-readme-stats) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieliribeiro&show_icons=true)  
+  
 
- Languages and Tools 🛠
- 
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d2532334534344432373f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d666666666666](https://user-images.githubusercontent.com/97065013/155859985-2db1a990-955b-4d5b-a9f4-c333056614f2.svg)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d2532333135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333](https://user-images.githubusercontent.com/97065013/155859999-c11889f4-93fb-4652-85f7-df7311bbe3e6.svg)
-![687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d666666666666](https://user-images.githubusercontent.com/97065013/155860006-c72ad124-382e-4aea-a204-5ee684e01dcf.svg)
