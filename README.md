@@ -9,7 +9,7 @@ Welcome to my Github! Here I post some codes of somethings that I've learned.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 
- - 📚 I’m currently learning everything about Frontend and Backend technologies;
+ - 📚 I’m currently learning everything about Front-end and Back-end technologies;
  - 👨‍💻 I'm currently looking for opportunities;
  - 📚 A Systems Analysis and Development Student;
  - ⭐ Fun Fact: One of my favorite bands is Red Hot Chili Peppers;
