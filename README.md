@@ -11,7 +11,7 @@ Welcome to my Github! Here I post some codes of somethings that I've learned.
 <br />
 
  - 📚 I’m currently learning everything about Front-end and Back-end technologies;
- - 👨‍💻 I'm currently looking for opportunities;
+ - 👨‍💻 I'm currently working at Trier;
  - 📚 A Systems Analysis and Development Student;
  - ⭐ Fun Fact: One of my favorite bands is Red Hot Chili Peppers;
   
